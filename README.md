@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Abood** (Abd El-Rahman Mahmoud Seada)
+# 👋 Hey, I'm **Abd El-Rahman**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Automation+%26+Scraping+Expert+%F0%9F%A4%96;AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Bot+Builder+%F0%9F%A4%96;From+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 
@@ -141,6 +141,8 @@ class Abood:
 
 ## 🚀 **What I Build**
 
+<div align="center">
+
 <table>
   <tr>
     <td width="50%">
@@ -187,6 +189,8 @@ class Abood:
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
