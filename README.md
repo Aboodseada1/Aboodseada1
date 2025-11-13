@@ -194,39 +194,6 @@ class Abood:
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abood&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abood&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abood&theme=tokyonight" alt="abood" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abood&theme=tokyo-night&hide_border=true&area=true" />
-  
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=abood&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-  
-</div>
-
----
-
 ## 🎯 **Current Focus**
 
 ```yaml
