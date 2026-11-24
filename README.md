@@ -1,6 +1,6 @@
 # Abd El-Rahman Seada
 
-Software engineer focused on backend systems, data pipelines and applied AI. Based in Doha, Qatar. Final-year student at Pharos University in Alexandria (graduating 2026).
+Software engineer focused on backend systems, data pipelines and applied AI. Based in Doha, Qatar. Studied at Pharos University in Alexandria (2018 to 2026).
 
 I build services and automation in Python and TypeScript, with PostgreSQL behind them. I care about clean data, scheduled jobs that keep running, and READMEs that let someone else run the project.
 
