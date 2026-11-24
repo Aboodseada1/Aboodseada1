@@ -9,6 +9,7 @@ I build services and automation in Python and TypeScript, with PostgreSQL behind
 - [ai-exposure-dataset](https://github.com/Aboodseada1/ai-exposure-dataset): open dataset of AI exposure scores per occupation, with an hourly GitHub Action that keeps the CSV exports in sync with the source pipeline. CSV schema, licensing and API docs included.
 - [linear-regression-sgd-from-scratch](https://github.com/Aboodseada1/linear-regression-sgd-from-scratch): linear regression with stochastic gradient descent in pure Python. Min-max normalization, train/test split, R2, MSE and MAE reporting.
 - [Domain-Finder](https://github.com/Aboodseada1/Domain-Finder): command-line tool that finds a company's official website using web search plus LLM verification (Gemini, OpenAI, Groq or Ollama). JSON output, logging, fallback logic.
+- [clipzy-pipeline](https://github.com/Aboodseada1/clipzy-pipeline): control plane for an automated short-form video pipeline. Next.js, Prisma and PostgreSQL, role-based access, human approval step, immutable event log, realtime updates over SSE.
 - [streamnova](https://github.com/Aboodseada1/streamnova): personal media streaming app with a React (Vite) frontend and a PHP backend, including upload, folders and expiring share links.
 
 ## Stack
